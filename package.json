@@ -1,0 +1,14 @@
+{
+  "name": "blog-express-js",
+  "version": "1.0.0",
+  "description": "Making a blog website in ExpressJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faraz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
